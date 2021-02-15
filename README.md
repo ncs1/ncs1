@@ -1,4 +1,4 @@
-# @ncs1 - An amateur developer
+# @ncs1  
 
 ```text
  ___________
